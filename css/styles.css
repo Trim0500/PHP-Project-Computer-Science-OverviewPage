@@ -12,6 +12,13 @@ h1 {
     font-weight: bold;
     text-align: center;
 }
+h2 {
+    color: #2d6e59;
+    font-family: 'JetBrains Mono';
+    line-height: 100px;
+    font-weight: bold;
+    text-align: center;
+}
 p {
     color: #2d6e59;
     font-family: 'JetBrains Mono';
