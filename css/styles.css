@@ -19,6 +19,10 @@ h2 {
     font-weight: bold;
     text-align: center;
 }
+h3 {
+    color: #2d6e59;
+    font-family: 'JetBrains Mono';
+}
 p {
     color: #2d6e59;
     font-family: 'JetBrains Mono';
@@ -52,6 +56,12 @@ a {
     a:active {
         color: black;
     }
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
 #wrapper {
     margin-left: auto;
     margin-right: auto;

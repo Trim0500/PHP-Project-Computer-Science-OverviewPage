@@ -14,4 +14,22 @@
 	<body id="wrapper">
 		<?php include "../header.php" ?>
 	</body>
+
+	<h3>Overview</h3>
+
+	<p>This program is a 3-year technical program. It comprises of 6 semesters, covering a total of 44 courses.
+	   The program is divided by the mandatory English, Second Language, Humanities &amp; Phys Ed courses, complementary courses
+	   &amp; the concentration courses.</p>
+	<p>In order to graduate from the progam, a student must complete all English, Second Language, Humanities &amp; Phys Ed courses.
+	   As well as acheive a set amount of credits to successfully finish your studies. The courses will cover a variety of topics,
+	   all in service of providing students with the tools they need to be software developers, systems specialists, computer repair &amp; more!</p>
+	<p>Courses will cover subjects like Object Oriented Design, Game Development, Server-Side Processing, Systems Analysis, Distributed Computing,
+	   IoT &amp; Database Management among others!</p>
+
+	<h3>Classrooms</h3>
+
+	<p>The classrooms students will be taught in range from many computer labs, traditional classrooms for lectures &amp; even some experimental
+	   facilities for specific needs of some courses. The labs come equipped with numourous laptops, each with the programs needed to teach &amp;
+	   learn the classes. Students are free to bring in there own hardware if they so choose! For courses like Configuring &amp; Maintaining Computers,
+	   speciic hardware will be provided to the students for them to work manually on!</p>
 </html>
