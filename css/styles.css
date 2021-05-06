@@ -56,11 +56,11 @@ a {
     a:active {
         color: black;
     }
-img {
+#centerImage {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 80%;
 }
 #wrapper {
     margin-left: auto;

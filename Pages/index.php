@@ -27,7 +27,7 @@
 
 			#echo $picture;
 
-			echo '<img src="../Imgs/' . $picture . ' alt="School Campus" width="512" height="288"/>';
+			echo '<img id="centerimage" src="../Imgs/' . $picture . ' alt="School Campus" width="512" height="288"/>';
 		}
 	}
 ?>
@@ -41,6 +41,8 @@
 		<?php include "../header.php" ?>
 
 		<?php
+			date_default_timezone_set("America/Toronto");
+
 			if(date("H") < 12) {
 				echo '<h2>' . 'Good Morning!' . '</h2>';
 			}
